@@ -1,7 +1,7 @@
 # WORK PORTFOLIO
 
 # ABOUT:
-My name is VOW, I'm a college student studying currently for my BA in Computer Engineering. My timezone is Pacific Standard (PT) and sometimes Central (CT).
+My name is VOW, I'm a college student studying currently for my BA in Computer Engineering and planning to go for my MS. My timezone is Pacific Standard (PT) and sometimes Central (CT).
 
 # SKILLS
  - My career/passion in coding began with LUA, and since then I've amassed 4+ years of general coding experience in languages such as LUA, python, C, javascript, etc.
