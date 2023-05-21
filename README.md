@@ -20,5 +20,5 @@ My name is VOW. I'm a college student studying currently for my BA in Computer E
 
 # PORTFOLIO/WORKS
  Sprint Mechanic + UI
-![](https://media0.giphy.com/media/D9R4bITFSvc4RDz2e9/giphy.gif)
+![](https://github.com/VOWSI/portfolio/blob/main/sprint_w_ui.gif)
 
